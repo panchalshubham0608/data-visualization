@@ -1,0 +1,17 @@
+
+.matrix-visualizer table,
+.matrix-visualizer tr,
+.matrix-visualizer th,
+.matrix-visualizer td {
+  border: none;
+}
+
+.matrix-visualizer th:first-child {
+  text-align: right;
+  padding-right: 10px;
+  width: 20px !important;
+}
+
+.selected-cell {
+  background-color: #f0f0f0 !important;
+}
